@@ -3,8 +3,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: example-nodejs-template
-  title: Example Node.js Template
-  description: An example template for the scaffolder that creates a simple Node.js service
+  title: Node.js Template
+  description: Template that creates a simple Node.js service
 spec:
   owner: user:guest
   type: service
